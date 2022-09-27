@@ -21,10 +21,3 @@ random.shuffle(s)
 x = "".join(s[0:p])
 print("\nYour Genrated Password : " , x)
 print("\n\n")
-
-
-
-
-
-
-
